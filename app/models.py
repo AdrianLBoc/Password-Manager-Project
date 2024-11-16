@@ -1,0 +1,1 @@
+# define database schematics (user and password tables)
