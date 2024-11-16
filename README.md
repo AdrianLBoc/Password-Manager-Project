@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python (wip)
 ```
 ## Project Structure
-- password_manager_project
+- Password-Manager-Project
     - venv/
     - app/
         - __init__.py
