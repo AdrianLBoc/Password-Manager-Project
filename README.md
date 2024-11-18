@@ -27,6 +27,11 @@ pip install -r requirements.txt
 ```bash
 python (wip)
 ```
+
+## Opening the Frontend in Xcode
+- Navigate to the `frontend` folder.
+- Open the `PasswordManager.xcodeproj` file in Xcode by double-clicking it or using File > Open in Xcode.
+
 ## Project Structure
 - Password-Manager-Project
     - venv/
